@@ -1,0 +1,19 @@
+{
+  "name": "pet_insurance",
+  "version": "1.0.0",
+  "description": "heyyy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngojaden0/pet_insurance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngojaden0/pet_insurance/issues"
+  },
+  "homepage": "https://github.com/ngojaden0/pet_insurance#readme"
+}
