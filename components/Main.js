@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { View, Text, Button, TextImput } from 'react-native';
 import Icons  from 'react-native-vector-icons/Ionicons'
 
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
@@ -11,7 +10,6 @@ import InvolvementScreen from './screens/Involvement';
 import ProfileScreen from './screens/Profile';
 
 const Tab = createBottomTabNavigator();
-
 export class Main extends Component{
     render() {
         return (
